@@ -1,0 +1,24 @@
+          body  {
+          background-image: url "0.jpg";
+          max-height: 100%;
+          height: auto;
+          }
+
+            border {
+                color: aliceblue;
+                hanging-punctuation: allow-end;
+                border-top-color: antiquewhite;
+                text-decoration-color: darkorange;
+            }
+
+            footer {
+                text-align: center;
+                font-size: 10px;
+            }
+
+            footer2{
+                text-align: center;
+                font-size: 10px;
+            }
+            
+
